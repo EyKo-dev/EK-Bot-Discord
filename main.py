@@ -19,5 +19,7 @@ bot.add_cog(test(bot))
 
 print("Hello")
 print("eyko")
+print("Hello 2")
+
 
 bot.run(token)
