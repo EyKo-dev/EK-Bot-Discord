@@ -17,4 +17,6 @@ slash = SlashCommand(bot, sync_commands = True)
 # Commandes
 bot.add_cog(test(bot))
 
+print("Hello")
+
 bot.run(token)
